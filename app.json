@@ -12,10 +12,10 @@
   ],
   "env": {
     "FORGE_CLIENT_ID": {
-      "description": "Forge Client ID"
+      "description": "6XadFHPBCU9oFKqupx75z9kszMfKAFlH"
     },
     "FORGE_CLIENT_SECRET": {
-      "description": "Forge Client Secret"
+      "description": "ki7E8TJRn4vxEgbq"
     },
     "FORGE_BUCKET":{
       "description" : "Default bucket name, no need to change it.",
